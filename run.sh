@@ -1,0 +1,1 @@
+docker run -it --rm -v "$(pwd)"/logic:/home/logic "${1:'eds'}"
